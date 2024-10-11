@@ -1,4 +1,4 @@
-# Formation GIT MAAIF BA
+# Formation GIT MAIF BA
 ## Sommaire
 1. [Généralités] (Chapitre 1 - Généralités.md)
 2.Installation et paramétrage
